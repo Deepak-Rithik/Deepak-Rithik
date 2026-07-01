@@ -1,162 +1,213 @@
-Professional GitHub Profile Structure
+<h1 align="center">Hi 👋, I'm Rithik</h1>
 
-1. 👋 Hero Section
+<h3 align="center">
+B.Tech Information Technology Student | Front-End Developer | AI Enthusiast
+</h3>
 
-Large greeting
-Name
-Role (B.Tech IT Student | Front-End Developer | Open Source Enthusiast)
-Short professional tagline
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;Open+Source+Learner;Python+Developer;Problem+Solver;Future+Software+Engineer" />
+</p>
 
-2. ⚡ Typing Animation
+---
 
-Front-End Developer
-Open Source Contributor
-Problem Solver
-Lifelong Learner
+## 🚀 About Me
 
-3. 🚀 About Me
+🎓 B.Tech Information Technology Student
 
-🎓 B.Tech Information Technology
-💻 Passionate about Web Development
-🌱 Currently learning React, Node.js & DSA
-🎯 Goal: Software Engineer at an MNC/Product Company
-📍 India
+💻 Passionate about Front-End Development & AI
 
-4. 🌐 Connect With Me
+🌱 Currently Learning
+- React.js
+- Node.js
+- Data Structures & Algorithms
+- Open Source
 
-LinkedIn
-Portfolio
-HackerRank
-LeetCode
-Email
+🎯 Goal
+- Software Engineer at a Top MNC/Product Company
 
-5. 🛠 Tech Stack
+⚡ Fun Fact
+> I enjoy building real-world projects that solve everyday problems.
 
-Languages
+---
 
-C
-C++
-Java
-Python
-JavaScript
+## 🌐 Connect With Me
 
-Frontend
+<p align="left">
 
-HTML
-CSS
-Bootstrap
-React
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Backend
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-Node.js
-Express
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
 
-Database
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
-MySQL
-MongoDB
+</p>
 
-Tools
+---
 
-Git
-GitHub
-VS Code
-Figma
+# 💻 Tech Stack
 
-6. 📂 Featured Projects
-Show only your best 4–6 projects.
+### Languages
 
-Example:
+<p>
 
-AI Resume Analyzer
-Expense Tracker
-Portfolio Website
-Voice Assistant
-Flashcard Quiz App
-Automated Billing System
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
 
-7. 📊 GitHub Analytics
+</p>
 
-GitHub Stats
-Streak Stats
-Top Languages
-Activity Graph
+### Frontend
 
-8. 🏆 Achievements
+<p>
 
-HackerRank Badges
-Internship Certificates
-Open Source Contributions
-Coding Contest Rankings
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
 
-9. 📚 Currently Learning
+</p>
 
-React
-Node.js
-Next.js
-Data Structures & Algorithms
-System Design
+### Backend
 
-10. 🎯 2026 Goals
+<p>
 
-⭐ 500+ GitHub Contributions
-🚀 20+ Quality Projects
-🧩 500+ DSA Problems
-💼 Software Developer Internship
-🌍 Open Source Contributions
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-11. 👀 Visitor Counter
+</p>
 
-Premium Extras
-Animated coding GIF
-Gradient headers
-Custom developer avatar
-Snake contribution animation
-Spotify widget (optional)
-GitHub trophies
-Wakatime coding stats
-3D contribution calendar
-Coding quotes
-Recruiter-Friendly Order
-Hero Banner
-Typing Animation
-About Me
-Social Links
-Tech Stack
-Featured Projects
-GitHub Stats
-GitHub Streak
-Top Languages
-Contribution Graph
-GitHub Trophies
-Achievements
-Current Learning
-Visitor Count
+### Database
 
-Since I know you're building a strong developer profile for placements and internships, I can also create a fully premium GitHub README (around 250–300 lines) with:
+<p>
 
-✨ Modern animated design
-📈 Live GitHub statistics
-🏆 HackerRank and LinkedIn integration
-🎨 Professional badges and icons
-🐍 Snake contribution animation
-🌙 Dark-theme optimized layout
-💼 ATS and recruiter-friendly content
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-It will be ready to paste directly into your GitHub profile repository.## Hi there 👋
+</p>
 
-<!--
-**Deepak-Rithik/Deepak-Rithik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools
 
-Here are some ideas to get you started:
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Resume Analyzer | AI-powered resume analysis system |
+| 💰 Expense Tracker | Track daily expenses with analytics |
+| 🎤 Voice Assistant | Python virtual assistant |
+| 📚 Flashcard Quiz App | Interactive learning application |
+| 💳 Automated Billing System | Billing software using Python |
+| 🌐 Personal Portfolio | Responsive portfolio website |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+✅ React.js
+
+✅ Node.js
+
+✅ REST APIs
+
+✅ MongoDB
+
+✅ DSA
+
+✅ Open Source
+
+---
+
+# 🎯 2026 Goals
+
+- ⭐ 500+ GitHub Contributions
+- 🚀 20+ Professional Projects
+- 💼 Software Development Internship
+- 📖 Master React.js
+- 🧠 Solve 500+ DSA Problems
+- 🌍 Contribute to Open Source
+
+---
+
+# 📈 Coding Profiles
+
+<p>
+
+<a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitor Count
+
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my GitHub Profile ⭐
+
+</h3>
